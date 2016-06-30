@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:columnCount="5"
+    android:rowCount="5"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="uk.co.scotsol.bsbingo.MainActivity">
+
+    <Button
+        android:id="@+id/A1"
+        android:text="A1"
+        android:onClick="a1_click" />
+    <Button
+        android:id="@+id/A2"
+        android:text="A2"
+        android:onClick="a2_click" />
+    <Button
+        android:id="@+id/A3"
+        android:text="A3"
+        android:onClick="a3_click" />
+    <Button
+        android:id="@+id/A4"
+        android:text="A4"
+        android:onClick="a4_click" />
+    <Button
+        android:id="@+id/A5"
+        android:text="A5"
+        android:onClick="a5_click" />
+    <Button
+        android:id="@+id/B1"
+        android:text="B1"
+        android:onClick="b1_click" />
+    <Button
+        android:id="@+id/B2"
+        android:text="B2"
+        android:onClick="b2_click" />
+    <Button
+        android:id="@+id/B3"
+        android:text="B3"
+        android:onClick="b3_click" />
+    <Button
+        android:id="@+id/B4"
+        android:text="B4"
+        android:onClick="b4_click" />
+    <Button
+        android:id="@+id/B5"
+        android:text="B5"
+        android:onClick="b5_click" />
+    <Button
+        android:id="@+id/C1"
+        android:text="C1"
+        android:onClick="c1_click" />
+    <Button
+        android:id="@+id/C2"
+        android:text="C2"
+        android:onClick="c2_click" />
+    <Button
+        android:id="@+id/C3"
+        android:text="C3"
+        android:onClick="c3_click" />
+    <Button
+        android:id="@+id/C4"
+        android:text="C4"
+        android:onClick="c4_click" />
+    <Button
+        android:id="@+id/C5"
+        android:text="C5"
+        android:onClick="c5_click" />
+    <Button
+        android:id="@+id/D1"
+        android:text="D1"
+        android:onClick="d1_click" />
+    <Button
+        android:id="@+id/D2"
+        android:text="D2"
+        android:onClick="d2_click" />
+    <Button
+        android:id="@+id/D3"
+        android:text="D3"
+        android:onClick="d3_click" />
+    <Button
+        android:id="@+id/D4"
+        android:text="D4"
+        android:onClick="d4_click" />
+    <Button
+        android:id="@+id/D5"
+        android:text="D5"
+        android:onClick="d5_click" />
+    <Button
+        android:id="@+id/E1"
+        android:text="E1"
+        android:onClick="e1_click" />
+    <Button
+        android:id="@+id/E2"
+        android:text="E2"
+        android:onClick="e2_click" />
+    <Button
+        android:id="@+id/E3"
+        android:text="E3"
+        android:onClick="e3_click" />
+    <Button
+        android:id="@+id/E4"
+        android:text="E4"
+        android:onClick="e4_click" />
+    <Button
+        android:id="@+id/E5"
+        android:text="E5"
+        android:onClick="e5_click" />
+
+    <EditText
+        android:id="@+id/chat_win"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine" />
+
+</GridLayout>

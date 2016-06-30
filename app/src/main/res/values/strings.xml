@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BS Bingo</string>
+
+    <string-array name="bs_list">
+        <item>Devils Advocate</item>
+        <item>Wheat from Chaff</item>
+        <item>BS1</item>
+        <item>BS2</item>
+        <item>BS3</item>
+        <item>BS4</item>
+        <item>BS5</item>
+        <item>BS6</item>
+        <item>BS7</item>
+        <item>BS8</item>
+        <item>BS9</item>
+        <item>BS10</item>
+        <item>BS11</item>
+        <item>BS12</item>
+        <item>BS13</item>
+        <item>BS14</item>
+        <item>BS15</item>
+        <item>BS16</item>
+        <item>BS17</item>
+        <item>BS18</item>
+        <item>BS19</item>
+        <item>BS20</item>
+        <item>BS21</item>
+        <item>BS22</item>
+    </string-array>
+
+</resources>
